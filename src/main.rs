@@ -1,3 +1,4 @@
+// Testing Git out
 fn main() {
     let mut num: u128;
     let mut prime: bool;
